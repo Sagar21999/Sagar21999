@@ -28,12 +28,42 @@ Welcome to my GitHub! I'm Sagar Naidu Potana, a passionate web developer and pro
 - Managed content updates across multiple pages, improving site traffic by 20%.
 - Optimized UI design for responsiveness and cross-browser compatibility.
 
+### Software Engineering Fellow | Headstarter AI | July 2024 - Present
+- Building 5+ AI apps and APIs using NextJS, OpenAI, Pinecone, and StripeAPI with 98% accuracy, serving over 1,000 users.
+- Developed projects from design to deployment, leading 4+ engineering fellows using MVC design patterns.
+- Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git, and microservice patterns.
+- **Achievements:**
+  - 5 AI projects in 5 weeks, shipping them to 1,000 users in the last 2 weeks.
+  - Participated in hackathons and in-person meetups to enhance project impact and collaboration.
+
 ### Programmer Analyst | Cognizant Technology Solutions | December 2020 - July 2022
 - Developed scalable web applications handling over 50,000 daily transactions.
 - Contributed to the full software development lifecycle (SDLC), improving efficiency by 15%.
 - Enhanced application performance, reducing loading times and increasing stability.
 
 ## 🧑‍💻 Projects
+
+### Headstarter Projects
+
+- **Week 1:** [Personal Website](https://sagarnaidupotana.vercel.app/) 
+  - Developed a personal website using HTML, CSS, Bootstrap, and JavaScript.
+  - Deployed the site using DNS and Vercel for hosting.
+  - [GitHub Repository](https://github.com/Sagar21999/Sagar21999.github.io)
+
+- **Week 2:** [Pantry Tracker](https://sagarpotana-pantry.vercel.app/)
+  - Built a pantry tracking application using React JS, Next JS, and Firebase.
+  - Implemented real-time data updates and an intuitive user interface.
+  - [GitHub Repository](https://github.com/Sagar21999/Headstarter-Pantry-App)
+
+- **Week 3:** AI Customer Support Chatbot [(AI Recipe Generator)](https://customer-support-ai-eta.vercel.app/)  
+  - Created an AI-powered recipe generator and customer support chatbot.
+  - Utilized Vercel, React, Next, OpenAI, AWS, and RAG (Retrieval-Augmented Generation).
+  - [GitHub Repository](https://github.com/Sagar21999/AI-Chat-Bot)
+
+- **Week 4:** [AI Flashcards and Stripe App](https://github.com/Sagar21999/Headstarter-flashcard-saas)  
+  - Developed an AI-powered flashcard app integrated with Stripe for payments.
+  - Used Next JS, React, Firebase, Stripe API, and Clerk for user authentication and payment processing.
+  - [GitHub Repository](https://github.com/Sagar21999/Headstarter-flashcard-saas)
 
 ### [Interpreting Indirect Answers To Yes/No Questions - NLP Project](https://github.com/kkvahd/yn-question-multilingual)
 - Developed a multi-lingual AI agent to interpret indirect answers to simple Yes/No questions.
