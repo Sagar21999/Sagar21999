@@ -1,61 +1,83 @@
-## 👋 Hey There ! 
-## My name is Sagar Naidu Potana.
-I'm a passionate software engineer with a knack for turning caffeine into code.I recently graduated with a Master of Science in Computer Science from George Mason University, where I've consistently demonstrated academic excellence, earning a GPA of 3.83 and the Outstanding Academic Achievement award. My journey in tech started with a Bachelor of Technology in Computer Science from Vignan Institute of Technology and Science in Hyderabad, India. With a proven track record as a Programmer Analyst at Cognizant Technology Solutions, I've developed and deployed high-quality web applications that solve real-world problems. I thrive in dynamic, fast-paced environments, and I'm driven by the desire to create innovative solutions that make a positive impact. My diverse skill set, combined with my commitment to continuous learning, keeps me ahead in the ever-evolving tech landscape.
-<hr>
-<h2>My Tech Stack</h2>
+# Sagar Naidu Potana
 
-#### Languages :  C, Java, Python, JavaScript, HTML, CSS
-#### Frameworks :  Spring Boot, React JS, Node JS, Bootstrap, jQuery, Microservices, JUnit, JPA
-#### Tools & Platforms :   Docker, Kubernetes, Jenkins, Git, Azure, AWS, ServiceNow ITSM, Postman, WordPress
-#### Databases :  Oracle, MySQL, MongoDB, Firebase
-#### Other :  XML, JSON, REST, OAuth, Microsoft Office, Kafka
-<hr>
-<h2>Projects I've worked on</h2>
+**Web Developer | Programmer Analyst | MS in Computer Science**
 
-<h4> <a href = "https://github.com/Sagar21999/MiniProj2">COVID-19 Test Tracker : </a> A web application for tracking COVID-19 testing data.</h4>
-<h4> <a href="https://github.com/Sagar21999/MiniProj1">E-Pharma Web Application : </a> An online platform for pharmaceutical services.</h4>
-<h4> <a href="https://github.com/Sagar21999/SWE632">Paws & Tails : </a> A web application to connect pet owners with service providers.</h4>
-<h4> <a href="">Bookstore Web Application : </a> An online bookstore with a user-friendly interface.</h4>
-<hr>
-<h2>Projects currently working on</h2>
-<ul>
-  <li>My Portfolio</li>
-  <li>A React - Django web application</li>
-</ul>
-<hr>
-<h2>Academics</h2>
+Welcome to my GitHub! I'm Sagar Naidu Potana, a passionate web developer and programmer analyst with a strong foundation in full-stack development, software engineering, and cloud technologies. I hold a Master of Science in Computer Science from George Mason University, where I graduated with a 3.83 GPA and was honored with the Outstanding Academic Achievement award.
 
-#### Masters in Computer Science, George Mason University, Fairfax, VA, USA. - May 2024 (GPA: 3.83)
-Received Outstanding Academic Achievement Award. <br>
+## 📫 Contact Me
 
-#### Bachelor of Technology in Computer Science and Engineering, Vignan Institute of Technology and Science, Hyderabad, India - September 2020 (GPA: 7.54/10)
-<hr>
+- **Email:** [sagarnaidupotana@gmail.com](mailto:sagarnaidupotana@gmail.com)
+- **LinkedIn:** [Sagar Naidu Potana](https://www.linkedin.com/in/sagarnaidu21/)
+- **Portfolio:** [sagarnaidupotana.vercel.app](https://sagarnaidupotana.vercel.app/)
+- **Location:** New Albany, Ohio, United States
 
-<h2>Professional Experience</h2>
+## 🛠️ Skills
 
-#### Programmer Analyst - Cognizant Technology Solutions, Pune, India - December 2020 to July 2022.
-<hr>
-<p>
-When I'm not coding 🧑‍💻️, you can find me exploring new hiking trails 🏞, experimenting with recipes in the kitchen 🔪, or trying to find the best meme on the internet 📱. I'm always open to collaborating on exciting projects and connecting with like-minded individuals.
-</p>
-<hr>
-<h2>Fun fact</h2>
-<p>
-  I like to click pictures 📷 of anything and everything except people. 😬
-</p>
-<hr>
+- **Programming Languages:** C, Java, Python, JavaScript
+- **Web Development:** HTML, CSS, Bootstrap, React JS, NextJS, Node JS, jQuery
+- **Backend Development:** Spring Boot, Microservices, JPA, REST, OAuth
+- **Databases:** Oracle, MySQL, MongoDB, Firebase, SQL, NoSQL
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git Version Control
+- **Cloud Services:** Microsoft Azure, AWS, Oracle Cloud Infrastructure (OCI), OpenAI, RAG
+- **Other Tools:** ServiceNow ITSM, Microsoft Office, Postman, WordPress, Prompt Engineering
 
-<!--
-**Sagar21999/Sagar21999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
 
-Here are some ideas to get you started:
+### Web Developer Intern | WoMen of Connections Ministry | July 2024 - Present
+- Collaborated with a team of developers to enhance user engagement by 30%.
+- Managed content updates across multiple pages, improving site traffic by 20%.
+- Optimized UI design for responsiveness and cross-browser compatibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmer Analyst | Cognizant Technology Solutions | December 2020 - July 2022
+- Developed scalable web applications handling over 50,000 daily transactions.
+- Contributed to the full software development lifecycle (SDLC), improving efficiency by 15%.
+- Enhanced application performance, reducing loading times and increasing stability.
+
+## 🧑‍💻 Projects
+
+### [Interpreting Indirect Answers To Yes/No Questions - NLP Project](https://github.com/kkvahd/yn-question-multilingual)
+- Developed a multi-lingual AI agent to interpret indirect answers to simple Yes/No questions.
+- Achieved an accuracy of 72% with an F1 score of 0.685.
+
+### [Paws & Tails - Online Pet Store](https://github.com/Sagar21999/SWE632)
+- Developed a user-centric front-end, improving navigation time by 20%.
+- Leveraged HTML, CSS, Bootstrap, and JavaScript to create a visually appealing interface.
+
+### [COVID-19 Test Tracker](https://github.com/Sagar21999/MiniProj2)
+- Designed and developed a scalable web application managing data for over 10,000 users.
+- Implemented robust backend functionalities, reducing data processing times by 25%.
+
+### [E-Pharma](https://github.com/Sagar21999/MiniProj1)
+- Focused on intuitive UI design principles to enhance user experience by 9% for an e-pharmacy web application.
+- Migrated the application to React JS, resulting in an 18% faster and more enhanced UI.
+- Designed and developed scalable APIs using Spring Boot and integrated them with the front end.
+
+### [Bookstore Web Application](#)
+- Utilized Agile methodologies to manage project requirements and facilitate sprint planning for a 6-person team.
+- Developed backend logic and functionalities using Java, Spring Framework, and MySQL.
+- Performed QA testing, increasing the test case pass success by 6%.
+
+## 🎓 Education
+
+- **Master of Science, Computer Science** | George Mason University, Fairfax, VA | May 2024
+  - GPA: 3.83 | Outstanding Academic Achievement award.
+- **Bachelor of Technology, Computer Science and Engineering** | Vignan Institute of Technology and Science, Hyderabad, India | September 2020
+  - GPA: 7.54/10
+
+## 🏆 Certifications
+
+- **OCI 2024 Generative AI Professional Certificate** | Oracle Cloud Infrastructure | 2024
+- **Microsoft Azure Fundamentals AZ-900** | Microsoft | 2023
+- **CCNA IT ESSENTIALS** | CISCO Academy | 2018
+
+## 🚀 Fun Fact
+
+I have a knack for transforming complex technical challenges into innovative, user-friendly solutions. Whether it's optimizing web performance or streamlining data workflows, I’m always excited to learn and apply new technologies.
+
+When I'm not coding 🧑‍💻️, you can find me exploring new hiking trails 🏞, experimenting with recipes in the kitchen 🔪, or trying to find the best meme on the internet 📱.
+
+Feel free to explore my repositories and projects, and don’t hesitate to reach out if you'd like to collaborate! I'm always open to collaborating on exciting projects and connecting with like-minded individuals.
+
+---
+
+Thank you for visiting my GitHub profile. Let's build something amazing together!
