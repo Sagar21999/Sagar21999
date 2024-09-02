@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm Sagar Naidu Potana, a passionate web developer and pro
 - Managed content updates across multiple pages, improving site traffic by 20%.
 - Optimized UI design for responsiveness and cross-browser compatibility.
 
-### Software Engineering Fellow | Headstarter AI | July 2024 - Present
+### Software Engineering Fellow | Headstarter AI | July 2024 - August 2024
 - Building 5+ AI apps and APIs using NextJS, OpenAI, Pinecone, and StripeAPI with 98% accuracy, serving over 1,000 users.
 - Developed projects from design to deployment, leading 4+ engineering fellows using MVC design patterns.
 - Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git, and microservice patterns.
