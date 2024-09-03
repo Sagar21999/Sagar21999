@@ -9,7 +9,9 @@ Welcome to my GitHub! I'm Sagar Naidu Potana, a passionate web developer and pro
 - **Email:** [sagarnaidupotana@gmail.com](mailto:sagarnaidupotana@gmail.com)
 - **LinkedIn:** [Sagar Naidu Potana](https://www.linkedin.com/in/sagarnaidu21/)
 - **Portfolio:** [sagarnaidupotana.vercel.app](https://sagarnaidupotana.vercel.app/)
+- **Resume:** [Sagar Naidu Potana](https://drive.google.com/file/d/1xNSPMROCnX4sFjx9UyjD-qhqzhgQETRL/view?usp=drive_link)
 - **Location:** New Albany, Ohio, United States
+  
 
 ## 🛠️ Skills
 
